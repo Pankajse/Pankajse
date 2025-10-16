@@ -1,71 +1,94 @@
-<div align="center">
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDB6dWd6Z3doZHF3YjRzM3p3bGUxN3ZvZGNzb3VwZmc1aXR1bTMyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="300px" />
-</div>
-
-<h1 align="center">Hi there 👋, I'm Pankaj Singh</h1>
-<h3 align="center">A passionate Full-Stack Developer creating impactful web applications.</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Singh</h1>
+<h3 align="center">Full-Stack Developer | MERN | Next.js | DevOps Enthusiast</h3>
 
 <p align="center">
-I enjoy building things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
+  <a href="https://www.linkedin.com/in/pankaj-singh-tech/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pankajse" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pankaj42se@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 </p>
 
-🚀 My Projects
+---
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">LifeAPI - Blood Donation Website</h3>
-<div align="center">
-<a href="https://lifeapi.vercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-brightgreen%3Fstyle%3Dfor-the-badge%26logo%3Dvercel" />
-</a>
-<a href="https://github.com/Pankajse/LifeAPI-website" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" />
-</a>
-</div>
-<p>Engineered a full-stack MERN application connecting donors with blood banks, hospitals, and donation events, which reduced manual search effort by 40%.</p>
-</td>
-<td width="50%">
-<h3 align="center">Second Brain</h3>
-<div align="center">
-<a href="https://second-brain-five-sigma.vercel.app/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Live-Demo-brightgreen%3Fstyle%3Dfor-the-badge%26logo%3Dvercel" />
-</a>
-<a href="https://github.com/Pankajse/Second-Brain" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" />
-</a>
-</div>
-<p>Deployed a full-stack productivity app using MERN stack and TypeScript, enabling users to save and organize YouTube videos, tweets, images, and links in one place.</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">Metaverse Game Backend</h3>
-<div align="center">
-<a href="https://github.com/Pankajse/Metaverse-2d" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-Repo-blue%3Fstyle%3Dfor-the-badge%26logo%3Dgithub" />
-</a>
-</div>
-<p>Developed a multiplayer backend with Node.js and WebSockets, enforcing movement rules and spatial boundaries for a real-time gaming experience.</p>
-</td>
-</tr>
-</table>
+### 👨‍💻 About Me
+I'm a **Full-Stack Developer** who loves building modern web applications that solve real-world problems.  
+I enjoy working with the **MERN stack**,  **Next.js**, and deploying production-ready apps using **Docker, AWS EC2, and CI/CD pipelines**.  
 
-🛠️ Tech Stack
+I believe in clean code, scalable architecture, and continuous learning 🚀
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,java,html,css,nextjs,react,tailwind,express,mongodb,postgresql,prisma,git,github,aws,docker,nodejs,typescript%26perline%3D9" />
-</a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,prisma,docker,aws,git,github,tailwind,jest" />
 </p>
 
-📫 Get in Touch
+## ⚙️ Technical Skills
 
+**Languages:** Typescript, JavaScript, Java, SQL, HTML, CSS  
+**Frameworks & Libraries:** Next.js, React.js, Tailwind CSS, Express.js, WebSockets  
+**Databases & ORM:** MongoDB, PostgreSQL, Mongoose, Prisma  
+**Tools & DevOps:** Git, GitHub, Docker, AWS EC2, CI/CD Pipeline, Jest 
+
+---
+
+### 🚀 Featured Projects
+
+#### 🩸 [LifeAPI – Blood Donation Platform](https://lifeapi.vercel.app/)
+**GitHub:** [LifeAPI-website](https://github.com/Pankajse/LifeAPI-website)  
+A full-stack MERN web app connecting donors, hospitals, and blood banks through a location-based system.  
+- Secure authentication using **JWT & bcrypt**  
+- **Google Maps API** integration for nearby donor search  
+- Built scalable REST APIs with **Node.js** and **Express**  
+- Deployed using **Docker** and **CI/CD pipeline**
+
+---
+
+#### 🧠 [Second Brain App](https://second-brain-five-sigma.vercel.app/)
+**GitHub:** [Second-Brain](https://github.com/Pankajse/Second-Brain)  
+A productivity app that stores and organizes YouTube videos, tweets, images, and links — your own “second brain.”  
+- Built with **Next.js**, **TypeScript**, and **React Query**  
+- Responsive UI with **Tailwind CSS** and **dark/light mode**  
+- Modular backend using **Express.js** and **MongoDB**
+
+---
+
+#### 🌌 [Metaverse 2D Game Backend](https://github.com/Pankajse/Metaverse-2d)
+Backend for a 2D multiplayer metaverse game with real-time movement and interactions.  
+- Real-time communication using **WebSockets**  
+- Server-side spatial validation for consistent game state  
+- Automated testing with **Jest**
+
+---
+
+### ⚙️ Tools & Platforms
 <p align="center">
-<a href="mailto:pankaj42se@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/pankaj-singh-tech/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,vercel,linux,figma,notion" />
 </p>
+
+---
+
+### 📫 Connect with Me
+<!-- - 🌐 [Portfolio / Live Projects](https://lifeapi.vercel.app/)   -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/pankaj-singh-tech/)  
+- 💻 [GitHub](https://github.com/Pankajse)  
+- ✉️ Email: **pankaj42se@gmail.com**
+
+---
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankajse&show_icons=true&theme=radical" height="150" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajse&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+⭐️ *“Building things that make life easier — one project at a time.”*
